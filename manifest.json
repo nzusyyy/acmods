@@ -1,5 +1,15 @@
 {
-  "league_name": "AC League",
+  "league_name": "\u0440\u0435\u043A\u044B",
   "version": "1.0",
-  "items": []
+  "items": [
+    {
+      "id": "1",
+      "name": "rask",
+      "category": "car",
+      "version": "1",
+      "target_subfolder": "content/cars",
+      "storage_provider": "gdrive",
+      "source_url": "https://drive.google.com/file/d/1d-FFiKPQimO6pQMs0jmoQfikHu8HnF1b/view"
+    }
+  ]
 }
