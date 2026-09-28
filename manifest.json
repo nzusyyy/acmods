@@ -1,7 +1,43 @@
 {
   "league_name": "\u0442\u0443\u0440\u0438\u043D\u0433",
-  "version": "1.0",
+  "version": "1.1",
   "items": [
+    {
+      "id": "1",
+      "name": "tcr",
+      "category": "car",
+      "version": "2.1",
+      "target_subfolder": "content/cars",
+      "storage_provider": "yandex",
+      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/HTRS%20TCR_Vesta%2BCupra%2Bi30N-2.1.zip"
+    },
+    {
+      "id": "1",
+      "name": "sp",
+      "category": "car",
+      "version": "10.1",
+      "target_subfolder": "content/cars",
+      "storage_provider": "yandex",
+      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/HTRS_SuperProduction_10_season-10.1.zip"
+    },
+    {
+      "id": "1",
+      "name": "mini",
+      "category": "car",
+      "version": "1.4",
+      "target_subfolder": "content/cars",
+      "storage_provider": "yandex",
+      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/htrs_mini_cooper_tl-1.4.zip"
+    },
+    {
+      "id": "1",
+      "name": "csp",
+      "category": "csp",
+      "version": "0.3.0-preview634",
+      "target_subfolder": "",
+      "storage_provider": "gdrive",
+      "source_url": "https://drive.google.com/file/d/1zuGnGp0xxR28rh3ztflzmVn9cZj6RM-i/view?usp=sharing"
+    },
     {
       "id": "1",
       "name": "sonoma",
