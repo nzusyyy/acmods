@@ -1,6 +1,6 @@
 {
   "league_name": "\u0442\u0443\u0440\u0438\u043D\u0433",
-  "version": "1.1",
+  "version": "1.5",
   "items": [
     {
       "id": "1",
@@ -9,7 +9,8 @@
       "version": "1.4",
       "target_subfolder": "content/cars",
       "storage_provider": "yandex",
-      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/htrs_mini_cooper_tl-1.4.zip"
+      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/htrs_mini_cooper_tl-1.4.zip",
+      "series": "all"
     },
     {
       "id": "1",
@@ -18,16 +19,38 @@
       "version": "0.3.0-preview634",
       "target_subfolder": "",
       "storage_provider": "gdrive",
-      "source_url": "https://drive.google.com/file/d/1zuGnGp0xxR28rh3ztflzmVn9cZj6RM-i/view?usp=sharing"
+      "source_url": "https://drive.google.com/file/d/1zuGnGp0xxR28rh3ztflzmVn9cZj6RM-i/view?usp=sharing",
+      "series": "all"
     },
     {
-      "id": "1",
-      "name": "sonoma",
+      "id": "car_touring_6d87f7",
+      "name": "TCR",
+      "category": "car",
+      "version": "2.1",
+      "target_subfolder": "content/cars",
+      "storage_provider": "yandex",
+      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/HTRS%20TCR_Vesta%2BCupra%2Bi30N-2.1.zip",
+      "series": "Touring"
+    },
+    {
+      "id": "car_touring_3ae047",
+      "name": "SP",
+      "category": "car",
+      "version": "10.1",
+      "target_subfolder": "content/cars",
+      "storage_provider": "yandex",
+      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/HTRS_SuperProduction_10_season-10.1.zip",
+      "series": "Touring"
+    },
+    {
+      "id": "track_touring_d6436c",
+      "name": "Sonoma",
       "category": "track",
-      "version": "1.10",
+      "version": "1.0",
       "target_subfolder": "content/tracks",
       "storage_provider": "yandex",
-      "source_url": "https://disk.yandex.ru/d/_z0olJyP-xuafg"
+      "source_url": "https://disk.yandex.ru/d/_z0olJyP-xuafg",
+      "series": "Touring"
     }
   ]
 }
