@@ -4,24 +4,6 @@
   "items": [
     {
       "id": "1",
-      "name": "tcr",
-      "category": "car",
-      "version": "2.1",
-      "target_subfolder": "content/cars",
-      "storage_provider": "yandex",
-      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/HTRS%20TCR_Vesta%2BCupra%2Bi30N-2.1.zip"
-    },
-    {
-      "id": "1",
-      "name": "sp",
-      "category": "car",
-      "version": "10.1",
-      "target_subfolder": "content/cars",
-      "storage_provider": "yandex",
-      "source_url": "https://disk.yandex.ru/d/GaYsjTgaf5fwJQ/HTRS_SuperProduction_10_season-10.1.zip"
-    },
-    {
-      "id": "1",
       "name": "mini",
       "category": "car",
       "version": "1.4",
